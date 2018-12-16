@@ -14,10 +14,15 @@ p{
   padding: 20px;
 }
 
+header {
+  padding: 20px;
+}
+
 /* Image animation style start */
 .container {
   position: relative;
   width: 50%;
+  margin-left: 25%;
 }
 
 .image {
@@ -83,7 +88,16 @@ p{
 .column {
   float: left;
   padding: 10px;
-  width: auto;
+}
+
+/* Left and right column */
+.column.small {
+  width: 25%;
+}
+
+/* Middle column */
+.column.big {
+  width: 50%;
 }
 
 /* Clear floats after the columns */
