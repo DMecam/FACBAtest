@@ -1,5 +1,5 @@
 *{
-  font-family: 'MinionPro', serif;
+  font-family: 'MinionPro', 'Montserrat', sans-serif;
   background-color: rgb(75, 91, 105);
   text-align: center;
   margin-left: 2.5%;
@@ -7,7 +7,7 @@
 }
 
 p{
-  font-family: 'Museo', serif;
+  font-family: 'Museo', 'PT Serif' serif;
   background: rgb(220, 227, 233);
   text-align: left;
   padding: 20px;
