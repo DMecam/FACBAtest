@@ -4,3 +4,10 @@
   font-weight: normal;
   font-style: normal;
 }
+
+@font-face {
+  font-family: 'Museo';
+  src: url('../fonts/Museo700.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}

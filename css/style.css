@@ -1,7 +1,14 @@
-h1 {
+*{
   font-family: 'MinionPro', serif;
-  background-color: rgb(220, 227, 233);
-  padding: 20px;
-  line-height: 140%;
+  background-color: rgb(75, 91, 105);
+  text-align: center;
+  margin-left: 2.5%;
+  margin-right: 2.5%;
+}
+
+p{
+  font-family: 'Museo', serif;
+  background: rgb(220, 227, 233);
   text-align: left;
+  padding: 20px;
 }
