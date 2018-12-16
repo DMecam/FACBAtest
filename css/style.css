@@ -83,16 +83,7 @@ p{
 .column {
   float: left;
   padding: 10px;
-}
-
-/* Left and right column */
-.column.small {
-  width: 25%;
-}
-
-/* Middle column */
-.column.big {
-  width: 50%;
+  width: auto;
 }
 
 /* Clear floats after the columns */
@@ -103,7 +94,7 @@ p{
 }
 
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 600px) {
   .column.small, .column.big {
     width: 100%;
   }
