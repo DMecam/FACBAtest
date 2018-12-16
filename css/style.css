@@ -1,6 +1,7 @@
-*{
+h1{
   font-family: 'MinionPro', 'Montserrat', sans-serif;
   background-color: rgb(75, 91, 105);
+  color: rgb(255, 255, 255);
   text-align: center;
   margin-left: 2.5%;
   margin-right: 2.5%;
@@ -29,7 +30,7 @@ p{
   bottom: 0;
   left: 100%;
   right: 0;
-  background-color: #008CBA;
+  background-color: #000000;
   overflow: hidden;
   width: 0;
   height: 100%;
