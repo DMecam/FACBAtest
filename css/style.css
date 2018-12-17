@@ -1,10 +1,19 @@
-h1{
+h1 {
   font-family: 'MinionPro', 'Montserrat', sans-serif;
   background-color: rgb(75, 91, 105);
   color: rgb(255, 255, 255);
   text-align: center;
   margin-left: 2.5%;
   margin-right: 2.5%;
+}
+
+h2 {
+  font-family: 'MinionPro', 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+a {
+  font-family: 'Museo', 'PT Serif' sefif;
 }
 
 p{
@@ -112,4 +121,9 @@ header {
   .column.small, .column.big {
     width: 100%;
   }
+}
+
+.secondImage {
+  float: left;
+  padding: 2%;
 }
